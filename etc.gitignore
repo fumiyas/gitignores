@@ -1,0 +1,12 @@
+.*
+*~
+*.rpmnew
+*.rpmsave
+*.dpkg-dist
+*.dpkg-old
+/*-
+/adjtime
+/ld.so.cache
+/lvm/cache
+/lvm/backup
+/mtab
